@@ -13,9 +13,9 @@
                         <h6 class="card-subtitle mb-2 text-muted">{{value.supplier}}</h6>
                         <p class="card-text"> Precio a pagar: ${{value.priceToPay}}</p>
                         <p class="card-text">Peso: {{value.weight}}</p>
+                        <p class="card-text">Courier: {{value.courier}}</p>
                         <p class="card-text">CourierTracking: {{value.courierTracking}}</p>
                         <p class="card-text">InternalTracking: {{value.internalTracking}}</p>
-                        <p class="card-text">CourierTracking: {{value.courierTracking}}</p>
                     </div>
                 </div>
             </div>
