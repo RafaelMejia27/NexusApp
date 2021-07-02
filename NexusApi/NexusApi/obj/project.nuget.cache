@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2AE8hG4GwPalhTWD/0wWIltMfcrLG82JtOTIbi7QGlxKEp1nn+kDqz0tJ0oBGsmF4+Lctlu0xO86MpzJrRg0Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafael Mejia\\Desktop\\Trabajo\\PRUEBA NEXUS\\NexusApi\\NexusApi\\NexusApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael Mejia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Rafael Mejia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

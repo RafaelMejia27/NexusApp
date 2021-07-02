@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NexusApi", "NexusApi\NexusApi.csproj", "{B81F7494-6C0E-4AE9-B539-8A5B9DBA1C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B81F7494-6C0E-4AE9-B539-8A5B9DBA1C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81F7494-6C0E-4AE9-B539-8A5B9DBA1C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81F7494-6C0E-4AE9-B539-8A5B9DBA1C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81F7494-6C0E-4AE9-B539-8A5B9DBA1C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F32BD14A-9DCC-402E-A754-B7E8127E5524}
+	EndGlobalSection
+EndGlobal
